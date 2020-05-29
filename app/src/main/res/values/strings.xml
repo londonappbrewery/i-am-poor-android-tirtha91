@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">I Am Poor</string>
     <string name="title">Opposite of Rich!</string>
+    <string name="text">Rich!</string>
 </resources>
